@@ -3,7 +3,9 @@ import logo from './logo.svg';
 function App() {
   return (
     <div>
-      This is the App component.
+      <Table responsive>
+
+      </Table>
     </div>
   );
 }
